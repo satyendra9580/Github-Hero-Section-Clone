@@ -156,7 +156,7 @@ const Hero = () => {
             
           ))}
         </div>
-        <div className="mt-10 p-2 rounded-lg border border-gray-700 shadow-md transition">{<ContributionGraph/>}</div>
+        {/* <div className="mt-10 p-2 rounded-lg border border-gray-700 shadow-md transition">{<ContributionGraph/>}</div> */}
       </div>
      
     </div>
